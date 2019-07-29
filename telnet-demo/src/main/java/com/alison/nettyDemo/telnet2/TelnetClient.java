@@ -32,8 +32,8 @@ public class TelnetClient {
         try {
             Bootstrap b = new Bootstrap();
             b.group(group)
-              .channel(NioSocketChannel.class)
-              .handler(new TelnetClientInitializer(sslCtx));
+              .channel(NioSocketChannel.class);
+//              .handler(new TelnetClientInitializer(sslCtx));
 
             // Start the connection attempt.
             Channel ch = b.connect(HOST, PORT).sync().channel();

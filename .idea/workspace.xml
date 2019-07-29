@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6471ade0-ecf0-46e7-b0ff-2829ea39a86e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/telnet-demo/src/main/java/com/alison/nettyDemo/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telnet-demo/src/main/java/com/alison/nettyDemo/telnet/NettyTelnetHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telnet-demo/src/main/java/com/alison/nettyDemo/telnet/NettyTelnetInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telnet-demo/src/main/java/com/alison/nettyDemo/telnet/NettyTelnetServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telnet-demo/src/main/java/com/alison/nettyDemo/telnet2/TelnetClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/telnet-demo/src/test/java/com/alison/nettyDemo/NettyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/netty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/netty.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telnet-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/telnet-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/telnet-demo/telnet-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/telnet-demo/telnet-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telnet-demo/src/main/java/com/alison/nettyDemo/telnet2/TelnetClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/telnet-demo/src/main/java/com/alison/nettyDemo/telnet2/TelnetClient.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/telnet-demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/telnet-demo/src/main/java/com/alison/nettyDemo/telnet2/TelnetClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="38" column="64" lean-forward="true" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+            <state relative-caret-position="369">
+              <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,7 +156,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564399612678" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564409388157" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../winteriscoming" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -239,7 +228,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564136088084</updated>
       <workItem from="1564136089582" duration="6814000" />
-      <workItem from="1564399179331" duration="343000" />
+      <workItem from="1564399179331" duration="1075000" />
     </task>
     <servers />
   </component>
@@ -267,13 +256,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7157000" />
+    <option name="totallyTimeSpent" value="7889000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -290,7 +279,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -427,8 +416,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/telnet-demo/src/main/java/com/alison/nettyDemo/telnet2/TelnetClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="38" column="64" lean-forward="true" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+        <state relative-caret-position="369">
+          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
