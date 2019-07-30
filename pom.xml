@@ -7,6 +7,9 @@
     <groupId>netty</groupId>
     <artifactId>netty</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>echo</module>
+    </modules>
     <packaging>pom</packaging>
     <name>netty</name>
 

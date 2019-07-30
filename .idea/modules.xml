@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/echo/echo.iml" filepath="$PROJECT_DIR$/echo/echo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/netty.iml" filepath="$PROJECT_DIR$/.idea/netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/telnet-demo/telnet-demo.iml" filepath="$PROJECT_DIR$/telnet-demo/telnet-demo.iml" />
     </modules>
