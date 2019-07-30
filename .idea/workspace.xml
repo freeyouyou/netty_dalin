@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6471ade0-ecf0-46e7-b0ff-2829ea39a86e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/echo/echo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echo/src/main/java/com/alison/echo/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echo/src/main/java/com/alison/echo/server/EchoClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echo/src/main/java/com/alison/echo/server/EchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/echo/src/main/java/com/alison/echo/server/EchoServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/telnet-demo/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,7 +18,17 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="516" column="14" lean-forward="true" selection-start-line="516" selection-start-column="14" selection-end-line="516" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -189,8 +189,16 @@
       <updated>1564136088084</updated>
       <workItem from="1564136089582" duration="6814000" />
       <workItem from="1564399179331" duration="1075000" />
-      <workItem from="1564409747964" duration="3838000" />
+      <workItem from="1564409747964" duration="3876000" />
     </task>
+    <task id="LOCAL-00001" summary="echo">
+      <created>1564450088751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564450088751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -217,10 +225,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11727000" />
+    <option name="totallyTimeSpent" value="11765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Learn" order="0" show_stripe_button="false" weight="0.32902467" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19349681" />
@@ -257,6 +266,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="echo" />
+    <option name="LAST_COMMIT_MESSAGE" value="echo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/telnet-demo/target/test-classes/com/alison/nettyDemo/NettyTest.class" />
@@ -331,13 +344,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="179" column="14" lean-forward="true" selection-start-line="179" selection-start-column="14" selection-end-line="179" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -422,6 +428,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="516" column="14" lean-forward="true" selection-start-line="516" selection-start-column="14" selection-end-line="516" selection-end-column="14" />
         </state>
       </provider>
     </entry>
